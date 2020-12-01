@@ -1,11 +1,20 @@
-# dynamic-list-of-todos
+# Dynamic list of todos
+Write here about your project in two-three sentences.
+- [Demo](https://ztx25.github.io/Demo_react_dynamic-list-of-todos/) 
 
-[Demo](https://ztx25.github.io/Demo_react_dynamic-list-of-todos/) 
+## Technologies:
+* React
+* JS(ES6)
+* SCSS
+* HTML5
 
-### Available Scripts
+## Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
 
-`Deploy` - available to deploy your application to gh-pages
+## Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
 
-`SCSS Preprocessor` - available to write your styles with modern style language
 
-`React router` - available to use dynamic routes to switch between pages
