@@ -1,6 +1,6 @@
-# React Starter Pack
+# dynamic-list-of-todos
 
-To use this template click `Use this template`
+[Demo](https://ztx25.github.io/Demo_react_dynamic-list-of-todos/) 
 
 ### Available Scripts
 
