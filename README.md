@@ -1,5 +1,5 @@
 # Dynamic list of todos
-Write here about your project in two-three sentences.
+
 - [Demo](https://ztx25.github.io/Demo_react_dynamic-list-of-todos/) 
 
 ## Technologies:
