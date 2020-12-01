@@ -9,8 +9,8 @@
 * HTML5
 
 ## Dependencies
-* Node v12.16.3 and higher
-* NPM v6.14.4 and higher
+* Node v14.9.0
+* NPM v6.14.8
 
 ## Installing
 * Fork and clone this repository
